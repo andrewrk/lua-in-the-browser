@@ -1,9 +1,9 @@
 # lua-in-the-browser
 
-This is the result of a 2.5 hour live coding stream in which
-I tried to build [Lua](https://www.lua.org/) using
-[ZIG](https://ziglang.org/), targeting
-[WebAssembly](https://webassembly.org/).
+This is the result of a
+[2.5 hour live coding stream](https://youtu.be/DtZBac-IUBQ) in which I tried
+to build [Lua](https://www.lua.org/) using [ZIG](https://ziglang.org/),
+targeting [WebAssembly](https://webassembly.org/).
 
 # Status
 
